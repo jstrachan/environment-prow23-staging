@@ -1,2 +1,2 @@
-# default-environment-charts
+# staging prow repo
 The default git repository used when creating new GitOps based Environments
